@@ -1,6 +1,6 @@
 # The DevSec Blueprint
 
-![Logo](./profile/images/default_banner.svg)
+![Logo](./profile/default_banner.svg)
 
 ## Introduction
 Welcome to the landing page for The DevSec Blueprint! This is the home for all of the coding projects that we've completed for the YouTube channel.
