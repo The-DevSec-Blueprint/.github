@@ -1,6 +1,6 @@
 # The DevSec Blueprint
 
-![Logo](./images/default_banner.svg)
+[![Logo](./images/default_banner.svg)](https://www.youtube.com/@damienjburks){ style="display: block; margin: 0 auto" }
 
 ## Introduction
 Welcome to the landing page for The DevSec Blueprint! This is the home for all of the coding projects that we've completed for the YouTube channel.
